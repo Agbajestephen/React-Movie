@@ -12,7 +12,7 @@ function MovieCard({movie}){
                     ❤️
                 </button>
             </div>
-        </div>
+        </div> 
         <div className="movie-info">
             <h3>{movie.title}</h3>
             <p>{movie.relese_date}</p>
